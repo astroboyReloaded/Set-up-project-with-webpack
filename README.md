@@ -5,7 +5,7 @@
 <div align="center">
   <img src="Astro-Boy-Transparent-Images.png" alt="logo" width="120"  height="auto" />
   <br/>
-  <h3><b>AstroboyReloaded | Portfolio</b></h3>
+  <h3><b>Get Started with Webpack</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->

@@ -34,8 +34,6 @@ This project aims to create a fully implemented professional portfolio to host m
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>Client</summary>
   <ul>
     <li><a href="https://https://html5.org//">HTML 5</a></li>
     <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS 3</a></li>
@@ -43,13 +41,7 @@ This project aims to create a fully implemented professional portfolio to host m
     <li><a href="https://www.npm.com/">npm</a></li>
     <li><a href="https://webpack.js.org/">webpack</a></li>
   </ul>
-</details>
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://pages.github.com/">GitHub Pages</a></li>
-  </ul>
-</details>
+
 
 <!-- Features -->
 

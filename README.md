@@ -5,7 +5,7 @@
 <div align="center">
   <img src="Astro-Boy-Transparent-Images.png" alt="logo" width="120"  height="auto" />
   <br/>
-  <h3><b>AstroboyReloaded | Portfolio</b></h3>
+  <h3><b>Get Started with Webpack</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -34,8 +34,6 @@ This project aims to create a fully implemented professional portfolio to host m
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>Client</summary>
   <ul>
     <li><a href="https://https://html5.org//">HTML 5</a></li>
     <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS 3</a></li>
@@ -43,13 +41,7 @@ This project aims to create a fully implemented professional portfolio to host m
     <li><a href="https://www.npm.com/">npm</a></li>
     <li><a href="https://webpack.js.org/">webpack</a></li>
   </ul>
-</details>
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://pages.github.com/">GitHub Pages</a></li>
-  </ul>
-</details>
+
 
 <!-- Features -->
 
@@ -59,7 +51,7 @@ This project aims to create a fully implemented professional portfolio to host m
 
 ### Prerequisites
 
-- [HTML](https://www.w3.org/html/) + [CSS](https://www.w3.org/Style/CSS/Overview.en.html) + [JavaScript](https://www.javascript.com/)
+- [HTML](https://www.w3.org/html/) + [CSS](https://www.w3.org/Style/CSS/Overview.en.html) + [ES6](https://www.javascript.com/)
 
 ### Setup
 
